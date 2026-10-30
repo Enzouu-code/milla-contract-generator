@@ -22,7 +22,7 @@
   │   └── contrato_compra_venda.docx
   ├── output/
   ├── power-automate/
-  │   └── [fluxo exportado do Power Automate]
+  │   └── Milla-Contract-Generator.txt
   ├── main.py
   ├── contract_generator.py
   ├── validators.py
